@@ -6,7 +6,7 @@ function MainBody() {
   return (
     <div className='flex sm:flex-row sm:p-3 sm:mr-6 flex-col sm:mt-0'>
         
-            <img className='sm:w-2/3 w-1/6 m-auto mb-0 lg:w-3/6 md:2/4' src={award} alt="" />
+            <img className='sm:w-2/3 w-1/6 m-auto mb-0 lg:w-1/4 md:2/4' src={award} alt="" />
         
         <div className='p-10 pt-0 pb-0 sm:pl-0'>
             <p className='text-base font-bold pl-0'>C.R.I PUMPS WIN THE NATIONAL ENERGY CONSERVATION AWARD 2018 for the 4th time</p>
